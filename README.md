@@ -11,5 +11,5 @@ Each entry is a single markdown file under `daily-logs/`, named by date
 - Whether work outside the current focus area was started, and why
 
 ## Purpose
-A consistent, verifiable record of progress — not a summary, not a 
+A consistent, verifiable record of progress - not a summary, not a 
 plan. Entries are written the same day as the work.
